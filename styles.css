@@ -50,6 +50,10 @@ a{
     text-decoration: none;
 }
 
+a:hover{
+    color: bisque;
+}
+
 body{
     margin: 0;
 }
